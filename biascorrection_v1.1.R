@@ -10,11 +10,8 @@
 #Clean all
 rm(list = ls())
 
-library(s2dverification)
-library(SpecsVerification)
 library(abind)
 library(multiApply)
-library(easyVerification)
 library(ncdf4)
 library(CSTools)
 library(zeallot)
