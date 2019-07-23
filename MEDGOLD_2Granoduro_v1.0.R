@@ -39,7 +39,7 @@ grids <- list(
 for (igrid in seq(1:length(grids))) {
 
 glat <- grids[[igrid]]$lat
-glon <- grids[[igrid]]$lat
+glon <- grids[[igrid]]$lon
 
 
 fi_var_names <- c('tmin2m','tmax2m','totprec')
