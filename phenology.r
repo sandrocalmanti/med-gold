@@ -1,6 +1,6 @@
 phenology = function(meteo, f.variety, sowing, lat)
 {
-
+  # PROVA
   # definition of parameters
   Parameters = list()
   Parameters$TSUMEM = -99  # Temp. sum for emergence

@@ -1,4 +1,6 @@
-﻿In the folder BSC_demo_scripts_for_ICT_platform, you can find six R scrips along with a readme.txt file, a folder data containing demo data to run these scripts and a pdf file explaining indices.
+﻿Cambiato il file di phenology.
+
+In the folder BSC_demo_scripts_for_ICT_platform, you can find six R scrips along with a readme.txt file, a folder data containing demo data to run these scripts and a pdf file explaining indices.
  
 Each R script computes, corrects bias and produces most likely tercile plot for each agroclimatic index selected by SOGRAPE. 
 
